@@ -1,0 +1,13 @@
+/home/jasper/starships/starships_cs/bin/Debug/netcoreapp3.1/starships_cs
+/home/jasper/starships/starships_cs/bin/Debug/netcoreapp3.1/starships_cs.deps.json
+/home/jasper/starships/starships_cs/bin/Debug/netcoreapp3.1/starships_cs.runtimeconfig.json
+/home/jasper/starships/starships_cs/bin/Debug/netcoreapp3.1/starships_cs.runtimeconfig.dev.json
+/home/jasper/starships/starships_cs/bin/Debug/netcoreapp3.1/starships_cs.dll
+/home/jasper/starships/starships_cs/bin/Debug/netcoreapp3.1/starships_cs.pdb
+/home/jasper/starships/starships_cs/obj/Debug/netcoreapp3.1/starships_cs.csprojAssemblyReference.cache
+/home/jasper/starships/starships_cs/obj/Debug/netcoreapp3.1/starships_cs.AssemblyInfoInputs.cache
+/home/jasper/starships/starships_cs/obj/Debug/netcoreapp3.1/starships_cs.AssemblyInfo.cs
+/home/jasper/starships/starships_cs/obj/Debug/netcoreapp3.1/starships_cs.csproj.CoreCompileInputs.cache
+/home/jasper/starships/starships_cs/obj/Debug/netcoreapp3.1/starships_cs.dll
+/home/jasper/starships/starships_cs/obj/Debug/netcoreapp3.1/starships_cs.pdb
+/home/jasper/starships/starships_cs/obj/Debug/netcoreapp3.1/starships_cs.genruntimeconfig.cache

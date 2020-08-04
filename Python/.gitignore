@@ -1,0 +1,12 @@
+__pycache__
+bin
+include
+lib
+share
+.vscode
+lib64
+pyvenv.cfg
+!tests
+!main.py
+!.gitignore
+!README.md
