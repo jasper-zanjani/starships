@@ -1,13 +1,13 @@
 from enum import Enum
 
 class StarshipClass(Enum):
-  NX = 'NX class'
-  GALAXY = 'Galaxy class'
-  CONSTITUTION = 'Constitution class'
-  SOVEREIGN = 'Sovereign class'
-  DEFIANT = 'Defiant class'
-  INTREPID = 'Intrepid class'
-  MIRANDA = 'Miranda class'
+  NX = 'NX'
+  GALAXY = 'Galaxy'
+  CONSTITUTION = 'Constitution'
+  SOVEREIGN = 'Sovereign'
+  DEFIANT = 'Defiant'
+  INTREPID = 'Intrepid'
+  MIRANDA = 'Miranda'
 
   
   def __repr__(self):
