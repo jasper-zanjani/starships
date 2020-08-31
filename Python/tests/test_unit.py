@@ -2,6 +2,7 @@ import unittest
 from starship import Starship, Fleet, StarshipClass
 
 
+# ARRANGE
 def random_ship():
   '''
   Return a starship with randomly generated values
@@ -10,6 +11,7 @@ def random_ship():
   '''
   return Starship('USS Enterprise',StarshipClass.CONSTITUTION,'NCC-1701',400)
 
+# ASSERT
 class TestShip(unittest.TestCase):
   # def random_ship(self):
   #   return starship.starship('USS Enterprise','NCC-1701',400)
